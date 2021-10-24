@@ -1,16 +1,19 @@
-### Hi there 👋
+# Impressum
 
-<!--
-**mycowerk/mycowerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The following notice is required by German law
 
-Here are some ideas to get you started:
+## Angaben gemäß § 5 TMG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Damian Peckett  
+c / o autorenglück.de  
+Franz-Mehring-Str. 15  
+01237 Dresden
+
+## Kontakt 
+
+Telefon: 03021780227  
+E-Mail: mycowerk@gmail.com 
+
+## Quelle
+
+[eRecht24 Impressum Generator](https://www.e-recht24.de/impressum-generator.html)
